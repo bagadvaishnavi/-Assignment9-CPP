@@ -91,7 +91,7 @@ The program demonstrates `std::move` with strings and vectors and illustrates th
 The practical demonstrates that `std::move` enables move operations, which can transfer resources instead of creating duplicate copies. The move constructor transfers the pointer and sets the original pointer to `nullptr`, preventing both objects from deleting the same memory.
 
 ## Author
-- **Student Name:** [Your Name]
-- **PRN:** [Your PRN]
+- **Student Name:** [Vaishnavi Bagad]
+- **PRN:** [202501110059]
 - **Branch:** Artificial Intelligence and Machine Learning
-- **Batch:** [Your Batch]
+- **Batch:** [B1]
